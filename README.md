@@ -28,7 +28,7 @@ needed. Open the local URL Streamlit prints (usually `http://localhost:8501`).
   Mandi Risk Score ranking the riskiest mandis, a radar-chart drill-down for
   any single mandi vs. the network average, a risk leaderboard, and a
   short-term revenue trend projection.
-- **🤖 AI Agent tab:** see below.
+- **AI Agent tab:** see below.
 - **Price & MSP / Arrivals & Supply / Logistics / Weather tabs:** the
   supporting evidence behind the headline story.
 - **Data Quality tab:** full transparency on what was wrong with the raw
